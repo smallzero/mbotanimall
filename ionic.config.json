@@ -1,0 +1,8 @@
+{
+  "name": "mbotanimall",
+  "app_id": "74f23875",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
